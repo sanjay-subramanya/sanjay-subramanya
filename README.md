@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a Machine Learning Engineer focused on building intelligent systems that ship to production, ranging from federated GNN frameworks and temporal portfolio risk models to real time Git conflict prediction engines and production grade AI agents. My work sits at the intersection of deep learning, 0 to 1 systems engineering, and MLOps, with hands on experience deploying LLMs, reinforcement learning policies, and distributed training pipelines into real world environments across cloud and edge. I enjoy designing architectures that are accurate, scalable, interpretable, and resilient under real constraints.
+Hello, I am a Machine Learning Engineer focused on building intelligent systems that ship to production, ranging from federated learning frameworks and temporal portfolio risk models to real time Git conflict prediction engines and production grade AI agents. My work sits at the intersection of deep learning, 0 to 1 systems engineering, and MLOps, with hands on experience deploying LLMs, reinforcement learning policies, and distributed training pipelines into real world environments across cloud and edge. I enjoy designing architectures that are accurate, scalable, interpretable, and resilient under real constraints.
 
 
 # 💻 Tech Stack:
